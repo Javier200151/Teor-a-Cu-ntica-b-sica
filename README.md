@@ -1,4 +1,4 @@
-# Teoria-Cuantica-basica
+# Teoria Cuantica basica
 Los retos de programación del capítulo 4 descrito en la sección 4.1 en python acompañado de sus pruebas con PyUnit. Contiene las funciones
 
 - Sistema de la posición de la partícula en una recta. Usuario especifica el número de puntos posibles y un vector ket y el sistema calcula las probabilidades de encontrar partícula en una posición. El sistema puede recibir dos vectores y calcular la probabilidad de transitar de el uno al otro después de hacer la observación
